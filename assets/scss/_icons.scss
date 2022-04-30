@@ -1,0 +1,30 @@
+.ai{
+    height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    text-indent: -999em;
+    display: inline-block;
+    &-user{
+        background-image: url('../images/person.svg');
+    }
+    &-user-workspace{
+        background-image: url('../images/person-workspace.svg');
+    }
+    &-skills{
+        background-image: url('../images/ui-checks.svg');
+    }
+    &-edu-cap{
+        background-image: url('../images/mortarboard.svg');
+    }
+    &-technical{
+        background-image: url('../images/headset-vr.svg');
+    }
+    &-user-line{
+        background-image: url('../images/person-lines.svg');
+    }
+    &-info{
+        background-image: url('../images/info-circle.svg');
+    }
+}
