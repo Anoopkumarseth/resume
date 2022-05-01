@@ -6,6 +6,7 @@
     background-position: center center;
     text-indent: -999em;
     display: inline-block;
+    flex: 0 0 auto;
     &-user{
         background-image: url('../images/person.svg');
     }
